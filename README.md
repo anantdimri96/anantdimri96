@@ -1,6 +1,6 @@
-# Hi, I'm Anant 👋
+# Hi, I'm Anant Dimri 👋
 
-I bridge the gap between **high-scale engineering** and **product strategy**, building AI-driven infrastructure and privacy-first developer products. My focus is on turning complex technical ambiguity into scalable user-centric products—from AI support workflows to high-availability payment architectures.
+I bridge the gap between **high-scale engineering** and **product strategy**. I build **AI-driven infrastructure and ship production-ready**, privacy-first products that turn technical ambiguity into scalable systems.Most of my work is hands-on: real systems, clear outcomes, and tested architectures for AI workflows, developer platforms, and high-availability payment systems.
 
 I am currently a **Summer 2026 Product Manager Intern candidate** with a deep technical foundation, looking to build the next generation of AI and developer platforms, infrastructure, and privacy-first internet products.
 
